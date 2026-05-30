@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productfelete",
+        "uuid": 1100320,
+        "checksum": "j8f0pk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
